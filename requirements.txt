@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+opencv-python
+Pillow==10.1.0
+pytesseract
+numpy
+openai
+python-dotenv
+# sqlite3
+
+
+# fastapi==0.103.0 
+# pydantic==2.0.3 
+# uvicorn==0.23.2 
+# sqlite3
