@@ -48,8 +48,7 @@ sudo apt-get install tesseract-ocr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd securesure-agent
+git clone https://github.com/nageswarao7/securesure-agent.git
 ```
 
 2. Create virtual environment:
@@ -82,7 +81,7 @@ TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"  # Windows
 ### Starting the Server
 
 ```bash
-python main.py
+python app.py
 ```
 
 The API will be available at `http://localhost:8000`
